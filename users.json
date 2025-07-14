@@ -9,5 +9,16 @@
     "saldo": 270000,
     "created": "2025-07-14T00:17:21.625Z",
     "status": "premium"
+  },
+  {
+    "username": "Maujo",
+    "password": "pongge57",
+    "whatsapp": "082279447123",
+    "bank": "DANA",
+    "rekening": "082279447123",
+    "nama": "Ardiw",
+    "saldo": 0,
+    "status": "pending",
+    "created": "2025-07-14T11:45:24.602Z"
   }
 ]
